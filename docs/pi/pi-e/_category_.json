@@ -1,7 +1,7 @@
 {
   "label": "Pi E",
   "link": {
-    "description": "Radxa Pi E 是一款基于 Rockchip RK3328 SOC 的高性价比单板计算机。",
+    "description": "ROCK Pi E 是一款基于 Rockchip RK3328 SOC 的高性价比单板计算机。",
     "slug": "/pi/pi-e",
     "type": "generated-index"
   },
