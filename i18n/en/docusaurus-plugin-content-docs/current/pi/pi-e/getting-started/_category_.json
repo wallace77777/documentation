@@ -1,0 +1,9 @@
+{
+  "label": "Getting Started",
+  "link": {
+    "description": "Start with your Pi E from here",
+    "slug": "/pi/pi-e/getting-started",
+    "type": "generated-index"
+  },
+  "position": 10
+}

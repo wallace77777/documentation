@@ -1,0 +1,9 @@
+{
+  "label": "Pi Series",
+  "link": {
+    "description": "The Pi series is a series of general-purpose SBCs designed for size optimization.",
+    "slug": "/pi",
+    "type": "generated-index"
+  },
+  "position": 54
+}

@@ -1,0 +1,9 @@
+{
+  "label": "新手入门",
+  "link": {
+    "description": "开始设置你的单板机电脑。",
+    "slug": "/pi/pi-e/getting-started",
+    "type": "generated-index"
+  },
+  "position": 10
+}

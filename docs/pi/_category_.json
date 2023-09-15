@@ -1,0 +1,9 @@
+{
+  "label": "Pi 系列",
+  "link": {
+    "description": "Pi 系列是针对尺寸优化的通用SBC。",
+    "slug": "/pi",
+    "type": "generated-index"
+  },
+  "position": 54
+}
