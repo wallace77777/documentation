@@ -5,9 +5,9 @@ sidebar_position: 3
 
 # Introduction
 
-Radxa ROCK Pi E is a Rockchip RK3328 based SBC(Single Board Computer) by Radxa. It equips a 64bits quad core processor, USB 3.0, dual ethernets, wireless connectivity at the size of 2.5x2.2 inch(56x65mm), making it perfect for IoT and network applications. The ROCK Pi E offers three RAM sizes from 512MB/1GB/2GB, supports uSD card for operating system and storage, and supports onboard eMMC. (Optional) ROCK Pi E supports PoE, requires an additional PoE HAT.
+Radxa Pi E is a Rockchip RK3328 based SBC(Single Board Computer) by Radxa. It equips a 64bits quad core processor, USB 3.0, dual ethernets, wireless connectivity at the size of 2.5x2.2 inch(56x65mm), making it perfect for IoT and network applications. The Radxa Pi E offers three RAM sizes from 512MB/1GB/2GB, supports uSD card for operating system and storage, and supports onboard eMMC. (Optional) Radxa Pi E supports PoE, requires an additional PoE HAT.
 
-![Radxa Pi E](/img/pi-e/radxa_pi_e.webp)
+![Radxa Pi E](/img/pi-e/radxa-pi-e.webp)
 
 **Note:** The actual board layout or components' location may change during the time but the main connectors type and location will remain the same.
 

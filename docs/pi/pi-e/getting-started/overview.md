@@ -5,9 +5,9 @@ sidebar_position: 3
 
 # 介绍
 
-Radxa ROCK Pi E 是 Radxa 推出的一款基于 Rockchip RK3328 的 SBC（单板计算机）。 它配备 64 位四核处理器、USB 3.0、双以太网、无线连接，尺寸为 2.5x2.2 英寸（56x65mm），非常适合物联网和网络应用。 ROCK Pi E 提供从 512MB / 1GB / 2GB 三种 RAM 大小，支持 uSD 卡进行操作系统和存储，同时支持板载 eMMC。 （可选）ROCK Pi E 支持 PoE，需要额外的 PoE HAT。
+Radxa Pi E 是 Radxa 推出的一款基于 Rockchip RK3328 的 SBC（单板计算机）。 它配备 64 位四核处理器、USB 3.0、双以太网、无线连接，尺寸为 2.5x2.2 英寸（56x65mm），非常适合物联网和网络应用。 Radxa Pi E 提供从 512MB / 1GB / 2GB 三种 RAM 大小，支持 uSD 卡进行操作系统和存储，同时支持板载 eMMC。 （可选）Radxa Pi E 支持 PoE，需要额外的 PoE HAT。
 
-![Radxa Pi E](/img/pi-e/radxa_pi_e.webp)
+![Radxa Pi E](/img/pi-e/radxa-pi-e.webp)
 
 **注意:** 实际的电路板布局或组件位置可能会在此期间发生变化，但主要连接器类型和位置将保持不变。
 

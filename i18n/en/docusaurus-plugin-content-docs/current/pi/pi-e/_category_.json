@@ -1,7 +1,7 @@
 {
   "label": "Pi E",
   "link": {
-    "description": "ROCK Pi E is a cost-effective single board computer based on Rockchip RK3328 SOC.",
+    "description": "Radxa Pi E is a cost-effective single board computer based on Rockchip RK3328 SOC.",
     "slug": "/pi/pi-e",
     "type": "generated-index"
   },

@@ -1,7 +1,7 @@
 {
-  "label": "Pi 系列",
+  "label": "瑞莎 Pi 系列",
   "link": {
-    "description": "Pi 系列是针对尺寸优化的通用SBC。",
+    "description": "瑞莎 E 系列是针对尺寸优化的通用SBC。",
     "slug": "/pi",
     "type": "generated-index"
   },
